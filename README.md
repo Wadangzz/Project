@@ -2,13 +2,12 @@
 # 🏭 Industrial Automation System
 
 이 프로젝트는 카메라 기반 객체 인식과 로봇 제어, PLC 연동 및 Digital Twin 구축을 포함한 **스마트 자동화 시스템**입니다.  
-서버-클라이언트 구조로 설계되었으며, 실시간 데이터 처리 및 제어를 목표로 합니다.
 
 ---
 
 ## 🧩 System Architecture
 
-![System Architecture](![Architecture](https://github.com/user-attachments/assets/7fce15d3-d269-42db-9107-f80810d027a5)
+(![Architecture](https://github.com/user-attachments/assets/7fce15d3-d269-42db-9107-f80810d027a5)
 
 
 
