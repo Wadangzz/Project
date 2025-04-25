@@ -8,7 +8,7 @@
 
 ## 🧩 System Architecture
 
-![System Architecture](./architecture.png) <!-- 이미지 파일명에 맞게 경로 수정 -->
+![System Architecture](![image](https://github.com/user-attachments/assets/c44079e9-b785-4167-9262-3989278c6d69))
 
 
 ## 🛠 기술 스택
@@ -16,7 +16,4 @@
 - **Backend**: FastAPI, SQLite, C# (.NET)
 - **Frontend**: Unity (3D 시각화)
 - **AI/제어**: YOLOv8, MediaPipe, Python
-- **주력 PLC**: Mitsubishi
-- **HMI/PLC 연동**: GX Works2, MX Component, CC-Link
-
-
+- **주력 PLC**: Mitsubishi(GX Works2, MX Component, CC-Link)
