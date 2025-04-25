@@ -8,7 +8,7 @@
 
 ## 🧩 System Architecture
 
-![System Architecture](![image](https://github.com/user-attachments/assets/c44079e9-b785-4167-9262-3989278c6d69))
+![System Architecture](![image](C:\Users\user\Desktop\Architecture))
 
 
 ## 🛠 기술 스택
