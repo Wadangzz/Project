@@ -7,7 +7,7 @@
 
 ## 🧩 System Architecture
 
-(![Architecture](https://github.com/user-attachments/assets/7fce15d3-d269-42db-9107-f80810d027a5)
+([Architecture](https://github.com/user-attachments/assets/7fce15d3-d269-42db-9107-f80810d027a5)
 
 
 
