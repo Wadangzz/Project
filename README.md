@@ -25,9 +25,8 @@
 - ![Servo](https://img.shields.io/badge/-MR--J4--10B-555555?style=flat&logo=server&logoColor=white)  
 - ![CCLink](https://img.shields.io/badge/-CC--Link-007CC2?style=flat&logo=protocolsio&logoColor=white)  
 - ![Dobot](https://img.shields.io/badge/-Dobot_Magician-005BA1?style=flat&logo=robotframework&logoColor=white)  
-- ![Logitech](https://img.shields.io/badge/-Logitech_Camera-000000?style=flat&logo=logitech&logoColor=white)  
-- ![ABKO](https://img.shields.io/badge/-ABKO_Camera-000000?style=flat&logo=camera&logoColor=white)
-
+- ![Logitech](https://img.shields.io/badge/Logitech_C922_PRO_STREAM-000000?style=flat&logo=logitech&logoColor=white)
+ 
 ---
 
 ### 🔤 Languages
@@ -47,7 +46,7 @@
 
 ### 🧱 Library / Framework
 - ![Dobot API](https://img.shields.io/badge/-Dobot_API-0082C8?style=flat&logo=usb&logoColor=white)  
-- ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocolsio&logoColor=white)  
+- ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocolㄴ&logoColor=white)  
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 - ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)  
