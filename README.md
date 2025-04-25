@@ -1,5 +1,5 @@
 # portfolio
-# 🏭 Industrial Automation System
+# 🏭 
 
 카메라 기반 객체 인식과 로봇 제어, PLC 연동 및 Digital Twin을 포함한 **통합 제조 솔루션** 구축 프로젝트입니다.  
 
@@ -56,4 +56,3 @@
 - ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocolsio&logoColor=white)  
 - ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)  
 - ![Unity Engine](https://img.shields.io/badge/-Unity_Engine-000000?style=flat&logo=unity&logoColor=white)
-
