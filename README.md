@@ -1,7 +1,8 @@
 # portfolio
-# 🏭 
-
-카메라 기반 객체 인식과 로봇 제어, PLC 연동 및 Digital Twin을 포함한 **통합 제조 솔루션** 구축 프로젝트입니다.  
+# 🏭 전기자동차 배터리 Pack 통합 제조 솔루션 구축
+- 배터리 팩 제조 공정 자동화 시스템 구현
+- 데이터 수집 및 분석 기반의 스마트 팩토리 고도화
+- Computer Vision, MES, SCADA, Digital Twin을 포함한 통합 제조 솔루션 구축
 
 ---
 
@@ -9,7 +10,18 @@
 
 ![Architecture](https://github.com/user-attachments/assets/7fce15d3-d269-42db-9107-f80810d027a5)
 
+---
 
+## 🧑‍💻 담당 업무 
+
+- 🧠 **PLC 프로그래밍**  
+- 🔗 **CC-Link, Servo Amp 설정**  
+- 🤖 **로봇 제어 프로그램 설계**  
+- 👁️ **객체 인식 프로그램 설계**  
+- 🔌 **통신 프로그램 설계 및 Server 구축**
+- 🧱 **Digital Twin 구축**  
+
+---
 
 ## 🛠 개발환경
 
