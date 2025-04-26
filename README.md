@@ -56,21 +56,21 @@
 
 ### 🧰 Dev Tools
 - ![GX Works2](https://img.shields.io/badge/-GX_Works2-E60012?style=flat&logo=automation&logoColor=white)  
-- ![MX Component](https://img.shields.io/badge/-MX_Component-000000?style=flat&logo=windows&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/-Visual_Studio_2022-5C2D91?style=flat&logo=visualstudio&logoColor=white)  
-- ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudio&logoColor=white)  
+- ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudio&logoColor=white)
+- ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 - ![Unity](https://img.shields.io/badge/-Unity_6-000000?style=flat&logo=unity&logoColor=white)
   
 ---
 
 ### 🧱 Library / Framework
-- ![Dobot API](https://img.shields.io/badge/-Dobot_API-0082C8?style=flat&logo=usb&logoColor=white)  
-- ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocolㄴ&logoColor=white)  
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-- ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)  
-- ![YOLO](https://img.shields.io/badge/-Ultralytics_YOLOv8-7B68EE?style=flat&logo=openai&logoColor=white)  
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-- ![.NET 8](https://img.shields.io/badge/-.NET_8.0-512BD4?style=flat&logo=dotnet&logoColor=white)  
-- ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)  
-- ![Unity Engine](https://img.shields.io/badge/-Unity_Engine-000000?style=flat&logo=unity&logoColor=white)
+- ![MX Component](https://img.shields.io/badge/-MX_Component-000000?style=flat&logo=windows&logoColor=white)
+- ![Dobot API](https://img.shields.io/badge/-Dobot_API-0082C8?style=flat&logo=usb&logoColor=white)
+- ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocolㄴ&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+- ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
+- ![YOLO](https://img.shields.io/badge/-Ultralytics_YOLOv8-7B68EE?style=flat&logo=openai&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![.NET 8](https://img.shields.io/badge/-.NET_8.0-512BD4?style=flat&logo=dotnet&logoColor=white)
