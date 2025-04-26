@@ -7,24 +7,25 @@
 
 ## 🧩 System Architecture
 
-![Architecture](https://github.com/user-attachments/assets/300e98dc-4567-4345-8069-30f21af10093)
+![Architecture](https://github.com/user-attachments/assets/1619d537-e841-4eba-8960-29e39779e31a)
+
 
 
 ---
 
 ## 🧑‍💻 팀 구성
-![image](https://github.com/user-attachments/assets/e2a88bf3-192f-484b-be20-3e5d346befbc)
+![image](https://github.com/user-attachments/assets/c7c63ea9-0e11-4de7-a1d8-097eeea2f77a)
+
 
 
 ## 🧑‍💻 담당 업무 
 
 - 🏗️ **Architecture 구성**
-- 🧠 **PLC 프로그래밍**  
-- 🔗 **CC-Link, Servo Amp 설정**  
-- 🤖 **로봇 제어 프로그램 설계**  
-- 👁️ **객체 인식 프로그램 설계**  
-- 🔌 **통신 프로그램 설계 및 Server 구축**
-- 🧱 **Digital Twin 구축**
+- 🧠 [**PLC 프로그래밍, CC-Link, Servo Amp 설정**](https://github.com/Wadangzz/GX_Works2) 
+- 🤖 [**로봇 제어 프로그래밍**](https://github.com/Wadangzz/Dobot32bit)
+- 👁️ [**객체 인식 프로그래밍**](https://github.com/Wadangzz/cv_gpu)  
+- 🔌 [**통신 프로그램 설계 및 Server 구축**](https://github.com/Wadangzz/PLC_NModbus)
+- 🧱 [**Digital Twin 구축**](https://github.com/Wadangzz/Final_DT)
 
 - 프로젝트 수행 과정은 각각의 Repository에서 확인하실 수 있습니다
 
