@@ -9,15 +9,13 @@
 
 ![Architecture](https://github.com/user-attachments/assets/eb8a5e0e-83c8-48d6-b6e1-e8004273f104)
 
-
-
-
 ---
 
 ## 🧑‍💻 팀 구성
 ![image](https://github.com/user-attachments/assets/c7c63ea9-0e11-4de7-a1d8-097eeea2f77a)
 
 
+---
 
 ## 🧑‍💻 담당 업무 
 
@@ -27,8 +25,6 @@
 - 👁️ [**객체 인식 프로그래밍**](https://github.com/Wadangzz/cv_gpu)  
 - 🔌 [**통신 프로그램 설계 및 Server 구축**](https://github.com/Wadangzz/PLC_NModbus)
 - 🧱 [**Digital Twin 구축**](https://github.com/Wadangzz/Final_DT)
-
-- 프로젝트 수행 과정은 각각의 Repository에서 확인하실 수 있습니다
 
 ---
 
