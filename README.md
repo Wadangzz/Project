@@ -1,14 +1,15 @@
 # 🏭 전기자동차 배터리 Pack 통합 제조 솔루션 구축
 - 배터리 팩 제조 공정 자동화 시스템 구현
 - 데이터 수집 및 분석 기반의 스마트 팩토리 고도화
-- Computer Vision, MES, SCADA, Digital Twin을 포함한 통합 제조 솔루션 구축[
+- Computer Vision, MES, SCADA, Digital Twin을 포함한 통합 제조 솔루션 구축
+  
 - [**시연 영상**](https://youtu.be/C7IiEgmp3LQ?si=M_EFfm-WeP8c7haz)
 
 ---
 
 ## 🧩 System Architecture
 
-![Architecture](https://github.com/user-attachments/assets/932a6530-aec1-437e-b703-c410418c9059)
+![Architecture](https://github.com/user-attachments/assets/634321a3-7582-41c1-88c5-89676cb494d0)
 
 
 ---
@@ -56,8 +57,7 @@
 ### 🧰 Dev Tools
  ![GX Works2](https://img.shields.io/badge/-GX_Works2-E60012?style=flat&logo=automation&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/-Visual_Studio_2022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
- ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudio&logoColor=white)![Uploading image.png…]()
-
+ ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudio&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
  ![Unity](https://img.shields.io/badge/-Unity_6-000000?style=flat&logo=unity&logoColor=white)
   
