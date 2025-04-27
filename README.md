@@ -8,7 +8,8 @@
 
 ## 🧩 System Architecture
 
-![Architecture](https://github.com/user-attachments/assets/282ef526-820c-458c-b053-ec2c676466eb)
+![Architecture](https://github.com/user-attachments/assets/932a6530-aec1-437e-b703-c410418c9059)
+
 
 ---
 
