@@ -71,7 +71,7 @@
  ![Labelme](https://img.shields.io/badge/-Labelme-FFB300?style=flat&logo=label&logoColor=white)
  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
- ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)
+ ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=mediapipe&logoColor=white)
  ![YOLO](https://img.shields.io/badge/-Ultralytics_YOLOv8-7B68EE?style=flat&logo=ultralytics&logoColor=white)
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
  ![.NET 8](https://img.shields.io/badge/-.NET_8.0-512BD4?style=flat&logo=dotnet&logoColor=white)
