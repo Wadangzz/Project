@@ -9,8 +9,7 @@
 
 ## 🧩 System Architecture
 
-![Architecture](https://github.com/user-attachments/assets/634321a3-7582-41c1-88c5-89676cb494d0)
-
+![Architecture](https://github.com/user-attachments/assets/eef03107-d989-45a8-833c-ca822d274f1c)
 
 ---
 
@@ -67,6 +66,7 @@
  ![MX Component](https://img.shields.io/badge/-MX_Component-000000?style=flat&logo=mitsubishi&logoColor=white)
  ![Dobot Magician SDK](https://img.shields.io/badge/-Dobot_Magician_SDK-0082C8?style=flat&logo=usb&logoColor=white)
  ![NModbus](https://img.shields.io/badge/-NModbus-333333?style=flat&logo=protocol&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
  ![Labelme](https://img.shields.io/badge/-Labelme-FFB300?style=flat&logo=label&logoColor=white)
  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
