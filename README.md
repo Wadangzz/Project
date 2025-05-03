@@ -3,7 +3,9 @@
 - 데이터 수집 및 분석 기반의 스마트 팩토리 고도화
 - Computer Vision, MES, SCADA, Digital Twin을 포함한 통합 제조 솔루션 구축
   
-- [**시연 영상**](https://youtu.be/C7IiEgmp3LQ?si=M_EFfm-WeP8c7haz)
+- [**시연 영상1**](https://youtu.be/C7IiEgmp3LQ?si=M_EFfm-WeP8c7haz)
+- [**시연 영상2**](https://youtu.be/dImex0b1iKY?si=woo8_xtk_0JgQwrX)
+
 
 ---
 
