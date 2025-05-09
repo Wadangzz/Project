@@ -27,6 +27,7 @@
 - 🤖 [**로봇 제어 프로그래밍**](https://github.com/Wadangzz/Dobot32bit)
 - 👁️ [**객체 인식 프로그래밍**](https://github.com/Wadangzz/cv_gpu)  
 - 🔌 [**통신 프로그램 설계 및 Server 구축**](https://github.com/Wadangzz/PLC_NModbus)
+- 🖥️ [**DataBase 조회 Client UI**](https://github.com/Wadangzz/DataBase)
 - 🧱 [**Digital Twin 구축**](https://github.com/Wadangzz/Final_DT)
 
 ---
