@@ -11,7 +11,8 @@
 
 ## 🧩 System Architecture
 
-![Architecture](https://github.com/user-attachments/assets/eef03107-d989-45a8-833c-ca822d274f1c)
+![Architecture](https://github.com/user-attachments/assets/ef8716bb-cdfc-4c1c-a6e7-4a09f1908e90)
+
 
 ---
 
